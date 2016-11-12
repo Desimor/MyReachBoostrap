@@ -1,0 +1,19 @@
+{
+  "name": "my-react-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Desimor/MyReactBoostrap.git"
+  },
+  "author": "Desimor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Desimor/MyReactBoostrap/issues"
+  },
+  "homepage": "https://github.com/Desimor/MyReactBoostrap#readme"
+}
