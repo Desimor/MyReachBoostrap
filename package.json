@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Desimor/MyReactBoostrap/issues"
   },
-  "homepage": "https://github.com/Desimor/MyReactBoostrap#readme"
+  "homepage": "https://github.com/Desimor/MyReactBoostrap#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+  }
 }
